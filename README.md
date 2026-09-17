@@ -1,2 +1,0 @@
-# shaik-sharif
-python practice
